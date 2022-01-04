@@ -2,3 +2,4 @@
 *solved.ipynb
 *.DS_Store
 *.tgz
+*__pycache__*
