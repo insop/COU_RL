@@ -1,3 +1,3 @@
 ### Coursera RL
 
-## Keeps the starter code only w/o solution
+## Starter code only w/o solutions
